@@ -1,6 +1,6 @@
 #Tarea Numero 2
    #Edison Cabezas
-     #Tercer Semestre
+     #Tercer Semestre Carrera Desarrollo de Software
         #Deber de adivinar un numero, del 1 al 100, dando la oportunidad de 10 intentos.
 
 import tkinter as tk
